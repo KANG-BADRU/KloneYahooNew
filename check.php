@@ -15,9 +15,9 @@ $banner = "\e[36;1m
                                                                                  
 [#] Yahoo Email Checker [#]    
                                    
-Coded by : Revan AR                  
+Coded by : MUHAMAD BADRU WASIH                  
 Team     : IndoSec                   
-Github   : https//github.com/revan-ar/\n\n\e[0;1m";
+Github   : https://github.com/KANG-BADRU/\n\n\e[0;1m";
 sleep(3);
 echo $banner;
 sleep(2);
